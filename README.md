@@ -2,7 +2,7 @@
 
 ## Description
 
-csvtransformer is an application for transforming CSV files.
+csvtransformer is an application for transforming CSV files done with Bun js runtime.
 
 ### To install dependencies:
 
